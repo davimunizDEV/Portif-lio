@@ -20,8 +20,14 @@ body{
     margin: 0 auto;
 }
 
+header .munizinho{
+    text-decoration: none;
+}
+
+
 header{
     padding: 40px 4%;
+    
 
 }
 
@@ -29,6 +35,10 @@ header > .interface{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+header .menus{
+    text-decoration: none;
 }
 
 header a {
